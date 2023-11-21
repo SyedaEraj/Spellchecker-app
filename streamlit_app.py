@@ -1,3 +1,5 @@
+pip install gradio
+pip install pyspellchecker
 import streamlit as st
 from spellchecker import SpellChecker
 
